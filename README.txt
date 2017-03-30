@@ -1,3 +1,3 @@
 Activité 1 :
 
-	Une page web !
+	Une page web structuré !
