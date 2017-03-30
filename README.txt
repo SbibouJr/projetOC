@@ -1,3 +1,3 @@
 Activité 1 :
 
-	Une page web structuré !
+	Une page web structuré et coloré !
